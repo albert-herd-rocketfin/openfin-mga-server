@@ -1,10 +1,10 @@
 {
-	"url": "http://localhost:8080/common/style/style.html",
+	"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/style/style.html",
 	"fdc3InteropApi": "1.2",
 	"customData": {},
 	"preloadScripts": [
 		{
-			"url": "http://localhost:8080/common/style/style-changed-preload.js"
+			"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/style/style-changed-preload.js"
 		}
 	]
 }

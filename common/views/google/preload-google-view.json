@@ -4,5 +4,5 @@
 	"interop": {
 		"currentContextGroup": "green"
 	},
-	"preloadScripts": [{ "url": "http://localhost:8080/common/views/google/preload-google.js" }]
+	"preloadScripts": [{ "url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/google/preload-google.js" }]
 }

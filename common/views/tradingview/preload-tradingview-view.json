@@ -6,7 +6,7 @@
 	},
 	"preloadScripts": [
 		{
-			"url": "http://localhost:8080/common/views/tradingview/preload-tradingview.js"
+			"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/tradingview/preload-tradingview.js"
 		}
 	]
 }

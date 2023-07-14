@@ -4,7 +4,7 @@
         "name": "rocketfin-beacon-demo",
         "title": "RocketFin VAR Application",
         "description": "Rocketfin beacon.",
-        "manifest": "http://localhost:8080/views/rocketfin-var-app-view.json",
+        "manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/views/rocketfin-var-app-view.json",
         "manifestType": "view",
         "contactEmail": "contact@example.com",
         "supportEmail": "support@example.com",

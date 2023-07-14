@@ -12,12 +12,12 @@
 			{
 				"enabled": true,
 				"id": "example",
-				"url": "http://localhost:8080/js/modules/auth/example.bundle.js",
+				"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/auth/example.bundle.js",
 				"data": {
 					"autoLogin": false,
-					"loginUrl": "http://localhost:8080/windows/modules/auth/example-login.html",
-					"logoutUrl": "http://localhost:8080/windows/modules/auth/example-logged-out.html",
-					"authenticatedUrl": "http://localhost:8080/windows/modules/auth/example-logged-in.html",
+					"loginUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/windows/modules/auth/example-login.html",
+					"logoutUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/windows/modules/auth/example-logged-out.html",
+					"authenticatedUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/windows/modules/auth/example-logged-in.html",
 					"checkLoginStatusInSeconds": 1,
 					"checkSessionValidityInSeconds": -1
 				}
@@ -25,10 +25,10 @@
 		]
 	},
 	"platformProvider": {
-		"rootUrl": "http://localhost:8080",
+		"rootUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server",
 		"sharing": true,
 		"intentPicker": {
-			"url": "http://localhost:8080/common/windows/intents/picker.html",
+			"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/windows/intents/picker.html",
 			"height": 400,
 			"width": 400
 		}
@@ -56,12 +56,12 @@
 			{
 				"enabled": true,
 				"id": "local-storage",
-				"url": "http://localhost:8080/js/modules/endpoints/local-storage.bundle.js"
+				"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/endpoints/local-storage.bundle.js"
 			},
 			{
 				"enabled": true,
 				"id": "example-connection-validation",
-				"url": "http://localhost:8080/js/modules/endpoints/example.connection.validation.bundle.js"
+				"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/endpoints/example.connection.validation.bundle.js"
 			}
 		],
 		"endpoints": [
@@ -70,7 +70,7 @@
 				"type": "fetch",
 				"options": {
 					"method": "GET",
-					"url": "http://localhost:8080/apps.json"
+					"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/apps.json"
 				}
 			},
 			{
@@ -78,7 +78,7 @@
 				"type": "fetch",
 				"options": {
 					"method": "GET",
-					"url": "http://localhost:8080/common/apps.json"
+					"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/apps.json"
 				}
 			},
 			{
@@ -207,9 +207,9 @@
 	"browserProvider": {
 		"windowOptions": {
 			"title": "Second Browser Starter",
-			"icon": "http://localhost:8080/favicon-32x32.png",
-			"newTabUrl": "http://localhost:8080/common/views/platform/new-tab/new-tab.html",
-			"newPageUrl": "http://localhost:8080/common/views/platform/new-tab/new-tab.html"
+			"icon": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon-32x32.png",
+			"newTabUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/platform/new-tab/new-tab.html",
+			"newPageUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/platform/new-tab/new-tab.html"
 		},
 		"globalMenu": [
 			{
@@ -389,7 +389,7 @@
 					"type": "Custom",
 					"tooltip": "Toggle Scheme",
 					"disabled": false,
-					"iconUrl": "http://localhost:8080/common/icons/{theme}/{scheme}/theme.svg",
+					"iconUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/icons/{theme}/{scheme}/theme.svg",
 					"action": {
 						"id": "toggle-scheme",
 						"customData": {}
@@ -404,7 +404,7 @@
 					"type": "Custom",
 					"tooltip": "Change Opacity",
 					"disabled": false,
-					"iconUrl": "http://localhost:8080/favicon.ico",
+					"iconUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon.ico",
 					"action": {
 						"id": "change-opacity",
 						"customData": {
@@ -421,7 +421,7 @@
 					"type": "Custom",
 					"tooltip": "Restore Opacity",
 					"disabled": false,
-					"iconUrl": "http://localhost:8080/favicon.ico",
+					"iconUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon.ico",
 					"action": {
 						"id": "restore-opacity",
 						"customData": {
@@ -438,7 +438,7 @@
 					"type": "Custom",
 					"tooltip": "Show Home",
 					"disabled": false,
-					"iconUrl": "http://localhost:8080/common/icons/{theme}/{scheme}/search.svg",
+					"iconUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/icons/{theme}/{scheme}/search.svg",
 					"action": {
 						"id": "home-show",
 						"customData": {}
@@ -452,7 +452,7 @@
 					"type": "Custom",
 					"tooltip": "Toggle Notification Center",
 					"disabled": false,
-					"iconUrl": "http://localhost:8080/common/icons/{theme}/{scheme}/bell.svg",
+					"iconUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/icons/{theme}/{scheme}/bell.svg",
 					"action": {
 						"id": "notification-toggle",
 						"customData": {}
@@ -466,7 +466,7 @@
 					"type": "Custom",
 					"tooltip": "Pin this window",
 					"disabled": false,
-					"iconUrl": "http://localhost:8080/common/icons/{theme}/{scheme}/pin.svg",
+					"iconUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/icons/{theme}/{scheme}/pin.svg",
 					"action": {
 						"id": "pin-window",
 						"customData": {
@@ -483,7 +483,7 @@
 					"type": "Custom",
 					"tooltip": "Unpin this window",
 					"disabled": false,
-					"iconUrl": "http://localhost:8080/common/icons/{theme}/{scheme}/pin-vertical.svg",
+					"iconUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/icons/{theme}/{scheme}/pin-vertical.svg",
 					"action": {
 						"id": "unpin-window",
 						"customData": {
@@ -528,7 +528,7 @@
 					"type": "Custom",
 					"tooltip": "Share",
 					"disabled": false,
-					"iconUrl": "http://localhost:8080/common/icons/{theme}/{scheme}/share.svg",
+					"iconUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/icons/{theme}/{scheme}/share.svg",
 					"action": {
 						"id": "share",
 						"customData": {}
@@ -550,7 +550,7 @@
 			{
 				"id": "default",
 				"label": "Default",
-				"logoUrl": "http://localhost:8080/favicon-32x32.png",
+				"logoUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon-32x32.png",
 				"default": "light",
 				"palettes": {
 					"light": {
@@ -616,14 +616,14 @@
 	"homeProvider": {
 		"id": "second-customize-workspace",
 		"title": "Second Home Starter",
-		"icon": "http://localhost:8080/favicon-32x32.png",
+		"icon": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon-32x32.png",
 		"queryMinLength": 3,
 		"queryAgainst": ["title"]
 	},
 	"storefrontProvider": {
 		"id": "second-customize-workspace",
 		"title": "Second Custom Storefront",
-		"icon": "http://localhost:8080/favicon-32x32.png",
+		"icon": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon-32x32.png",
 		"landingPage": {
 			"hero": {
 				"title": "Second Custom Hero Title",
@@ -633,7 +633,7 @@
 					"tags": ["hero"]
 				},
 				"image": {
-					"src": "http://localhost:8080/common/images/superhero-unsplash.jpg"
+					"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/superhero-unsplash.jpg"
 				}
 			},
 			"topRow": {
@@ -643,7 +643,7 @@
 						"title": "Expero",
 						"description": "A collection of example views from Expero showing the power of interop and context sharing.",
 						"image": {
-							"src": "http://localhost:8080/common/images/coding-1-unsplash.jpg"
+							"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/coding-1-unsplash.jpg"
 						},
 						"tags": ["expero"],
 						"buttonTitle": "View"
@@ -652,7 +652,7 @@
 						"title": "Dev Tools",
 						"description": "A collection of developer tools that can aid with building and debugging OpenFin applications.",
 						"image": {
-							"src": "http://localhost:8080/common/images/coding-2-unsplash.jpg"
+							"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/coding-2-unsplash.jpg"
 						},
 						"tags": ["tools"],
 						"buttonTitle": "View"
@@ -661,7 +661,7 @@
 						"title": "Learning Resource",
 						"description": "A collection of developer documents that can aid with building and debugging OpenFin applications.",
 						"image": {
-							"src": "http://localhost:8080/common/images/coding-3-unsplash.jpg"
+							"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/coding-3-unsplash.jpg"
 						},
 						"tags": ["page"],
 						"buttonTitle": "View"
@@ -679,7 +679,7 @@
 						"title": "Views",
 						"description": "A collection of views made available through our catalog.",
 						"image": {
-							"src": "http://localhost:8080/common/images/coding-4-unsplash.jpg"
+							"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/coding-4-unsplash.jpg"
 						},
 						"tags": ["view"],
 						"buttonTitle": "View"
@@ -688,7 +688,7 @@
 						"title": "Web Apps",
 						"description": "A collection of web apps built using OpenFin.",
 						"image": {
-							"src": "http://localhost:8080/common/images/coding-5-unsplash.jpg"
+							"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/coding-5-unsplash.jpg"
 						},
 						"tags": ["manifest"],
 						"buttonTitle": "View"
@@ -697,7 +697,7 @@
 						"title": "Native Apps",
 						"description": "A collection of native apps made available through our catalog.",
 						"image": {
-							"src": "http://localhost:8080/common/images/coding-6-unsplash.jpg"
+							"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/coding-6-unsplash.jpg"
 						},
 						"tags": ["native"],
 						"buttonTitle": "View"
@@ -747,7 +747,7 @@
 		],
 		"footer": {
 			"logo": {
-				"src": "http://localhost:8080/favicon-32x32.png",
+				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon-32x32.png",
 				"size": "32"
 			},
 			"text": "Welcome to the OpenFin Sample Footer",
@@ -766,7 +766,7 @@
 	"dockProvider": {
 		"id": "customize-workspace",
 		"title": "Home Starter",
-		"icon": "http://localhost:8080/favicon.ico",
+		"icon": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon.ico",
 		"workspaceComponents": {
 			"hideHomeButton": false,
 			"hideWorkspacesButton": false,
@@ -786,7 +786,7 @@
 			{
 				"display": "group",
 				"tooltip": "Manager",
-				"iconUrl": "http://localhost:8080/common/images/icon-gradient.png",
+				"iconUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-gradient.png",
 				"tags": ["manager"]
 			}
 		],
@@ -803,7 +803,7 @@
 			},
 			{
 				"tooltip": "Social",
-				"iconUrl": "http://localhost:8080/common/icons/{theme}/{scheme}/share.svg",
+				"iconUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/icons/{theme}/{scheme}/share.svg",
 				"options": [
 					{
 						"tooltip": "Twitter",
@@ -830,37 +830,37 @@
 	"notificationProvider": {
 		"id": "second-customize-workspace",
 		"title": "Second Notification Starter",
-		"icon": "http://localhost:8080/favicon-32x32.png"
+		"icon": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon-32x32.png"
 	},
 	"integrationProvider": {
-		"icon": "http://localhost:8080/favicon.ico",
+		"icon": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon.ico",
 		"isManagementEnabled": true,
 		"command": "integrations",
 		"commandDescription": "Allows the management of integrations for this platform. You can decide whether enabled integrations should be included when a query is entered.",
 		"modules": [
 			{
 				"id": "workspaces",
-				"icon": "http://localhost:8080/favicon.ico",
+				"icon": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon.ico",
 				"title": "Workspaces",
 				"description": "Manage workspaces",
 				"enabled": true,
-				"url": "http://localhost:8080/js/modules/integrations/workspaces.bundle.js",
+				"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/integrations/workspaces.bundle.js",
 				"data": {
 					"images": {
-						"workspace": "http://localhost:8080/icons/{scheme}/workspace.svg"
+						"workspace": "https://github.com/albert-herd-rocketfin/openfin-mga-server/icons/{scheme}/workspace.svg"
 					}
 				}
 			},
 			{
 				"id": "pages",
-				"icon": "http://localhost:8080/favicon.ico",
+				"icon": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon.ico",
 				"title": "Pages",
 				"description": "Manage Pages",
 				"enabled": true,
-				"url": "http://localhost:8080/js/modules/integrations/pages.bundle.js",
+				"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/integrations/pages.bundle.js",
 				"data": {
 					"images": {
-						"page": "http://localhost:8080/icons/{scheme}/page.svg"
+						"page": "https://github.com/albert-herd-rocketfin/openfin-mga-server/icons/{scheme}/page.svg"
 					}
 				}
 			},
@@ -885,7 +885,7 @@
 			},
 			{
 				"id": "emoji",
-				"icon": "http://localhost:8080/favicon.ico",
+				"icon": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon.ico",
 				"title": "Emoji Provider",
 				"enabled": true,
 				"autoStart": false,
@@ -894,12 +894,12 @@
 			},
 			{
 				"id": "about",
-				"icon": "http://localhost:8080/favicon.ico",
+				"icon": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon.ico",
 				"title": "About",
 				"description": "Provides information about this platform.",
 				"enabled": true,
 				"excludeFromSourceFilter": true,
-				"url": "http://localhost:8080/js/modules/composite/about.bundle.js",
+				"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/composite/about.bundle.js",
 				"data": {}
 			}
 		]
@@ -909,7 +909,7 @@
 			{
 				"enabled": true,
 				"id": "interop",
-				"url": "http://localhost:8080/js/modules/init-options/interop.bundle.js",
+				"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/init-options/interop.bundle.js",
 				"data": {
 					"supportedActions": ["raise-intent", "share-context"]
 				}
@@ -921,7 +921,7 @@
 			{
 				"enabled": true,
 				"id": "console",
-				"url": "http://localhost:8080/js/modules/log/console.bundle.js"
+				"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/log/console.bundle.js"
 			}
 		]
 	},
@@ -930,21 +930,21 @@
 			{
 				"enabled": true,
 				"id": "opacity",
-				"url": "http://localhost:8080/js/modules/actions/opacity.bundle.js"
+				"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/actions/opacity.bundle.js"
 			},
 			{
 				"enabled": true,
 				"id": "developer-actions",
-				"url": "http://localhost:8080/js/modules/composite/developer.bundle.js"
+				"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/composite/developer.bundle.js"
 			},
 			{
 				"enabled": true,
 				"id": "about-actions",
-				"url": "http://localhost:8080/js/modules/composite/about.bundle.js",
+				"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/composite/about.bundle.js",
 				"data": {
 					"windowOptions": {
 						"name": "about",
-						"url": "http://localhost:8080/common/windows/version/about.html",
+						"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/windows/version/about.html",
 						"defaultCentered": true,
 						"showTaskbarIcon": false,
 						"autoShow": true,
@@ -963,7 +963,7 @@
 			{
 				"enabled": true,
 				"id": "about-conditions",
-				"url": "http://localhost:8080/js/modules/composite/about.bundle.js"
+				"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/composite/about.bundle.js"
 			}
 		]
 	},
@@ -1019,7 +1019,7 @@
 			{
 				"enabled": true,
 				"id": "analytics.console",
-				"url": "http://localhost:8080/js/modules/analytics/console.bundle.js",
+				"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/analytics/console.bundle.js",
 				"data": {
 					"eventLogLevel": "info"
 				}
@@ -1033,7 +1033,7 @@
 		},
 		"versionWindow": {
 			"name": "versioning",
-			"url": "http://localhost:8080/windows/version/version.html",
+			"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/windows/version/version.html",
 			"defaultCentered": true,
 			"showTaskbarIcon": false,
 			"autoShow": true,
