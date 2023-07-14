@@ -4,11 +4,11 @@
 		"name": "call-app",
 		"title": "Call Application",
 		"description": "Start a call.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/contact/call-app.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/contact/call-app.json",
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -36,11 +36,11 @@
 		"name": "participant-selection",
 		"title": "Participant Selection",
 		"description": "Select a participant.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/contact/participant-selection.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/contact/participant-selection.json",
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -55,11 +55,11 @@
 		"name": "participant-history",
 		"title": "Participant History",
 		"description": "View participant history.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/contact/participant-history.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/contact/participant-history.json",
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -81,11 +81,11 @@
 		"name": "investments-and-models",
 		"title": "Investments and Models",
 		"description": "View investments and models.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/contact/investments-and-models.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/contact/investments-and-models.json",
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -107,11 +107,11 @@
 		"name": "participant-summary-view",
 		"title": "Participant Summary",
 		"description": "View summary of the participant",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/contact/participant-summary.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/contact/participant-summary.json",
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -133,11 +133,11 @@
 		"name": "participant-summary-window",
 		"title": "Participant Summary Window",
 		"description": "View summary of the participant",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/contact/participant-summary.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/contact/participant-summary.json",
 		"manifestType": "window",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -160,10 +160,10 @@
 		"title": "Client Overview",
 		"manifestType": "snapshot",
 		"description": "Provides a summary of the current client",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/snapshots/snapshot-contact-overview.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/snapshots/snapshot-contact-overview.json",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -185,7 +185,7 @@
 		"name": "fdc3-workbench",
 		"title": "FDC3 Workbench",
 		"description": "Launch the official FDC3 Workbench",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/fdc3/workbench/fdc3-workbench-view.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/fdc3/workbench/fdc3-workbench-view.json",
 		"manifestType": "view",
 		"icons": [
 			{
@@ -211,7 +211,7 @@
 		],
 		"images": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/previews/fdc3-workbench.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/previews/fdc3-workbench.png"
 			}
 		],
 		"tags": ["view", "interop", "fdc3", "contact", "instrument", "tools"]
@@ -225,7 +225,7 @@
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -248,7 +248,7 @@
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -271,7 +271,7 @@
 		"manifest": "https://built-on-openfin.github.io/dev-extensions/extensions/v2.0.0/interop/snapshots/snapshot-context-multi-instance.json",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -294,7 +294,7 @@
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -372,7 +372,7 @@
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -450,7 +450,7 @@
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -528,7 +528,7 @@
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -606,7 +606,7 @@
 		"manifest": "https://built-on-openfin.github.io/dev-extensions/extensions/v2.0.0/interop/snapshots/snapshot-intent-single-instance.json",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -684,7 +684,7 @@
 		"manifest": "https://built-on-openfin.github.io/dev-extensions/extensions/v2.0.0/interop/snapshots/snapshot-intent-multi-instance.json",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -760,7 +760,7 @@
 		"description": "A developer tool to help build an app definition",
 		"manifest": "https://built-on-openfin.github.io/dev-extensions/extensions/v2.0.0/app/app-definition-builder/app-definition-builder-view.json",
 		"manifestType": "view",
-		"icons": [{ "src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png" }],
+		"icons": [{ "src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png" }],
 		"contactEmail": "contact@example.com",
 		"supportEmail": "support@example.com",
 		"publisher": "OpenFin",
@@ -786,7 +786,7 @@
 		"description": "A tool to help in the building of a theme.",
 		"manifest": "https://built-on-openfin.github.io/dev-extensions/extensions/v2.0.0/branding/theme-definition-builder/theme-definition-builder-view.json",
 		"manifestType": "view",
-		"icons": [{ "src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png" }],
+		"icons": [{ "src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png" }],
 		"contactEmail": "contact@example.com",
 		"supportEmail": "support@example.com",
 		"publisher": "OpenFin",
@@ -803,16 +803,16 @@
 		"name": "starter-style-guide",
 		"title": "Starter Style Guide",
 		"description": "A style guide used to aid in the building of workspace starter samples.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/style/style-view.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/style/style-view.json",
 		"manifestType": "view",
-		"icons": [{ "src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png" }],
+		"icons": [{ "src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png" }],
 		"contactEmail": "contact@example.com",
 		"supportEmail": "support@example.com",
 		"publisher": "OpenFin",
 		"intents": [],
 		"images": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/previews/starter-style-guide.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/previews/starter-style-guide.png"
 			}
 		],
 		"tags": ["view", "style", "tools"]
@@ -829,7 +829,7 @@
 		"manifestType": "inline-view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -850,7 +850,7 @@
 		"manifestType": "inline-window",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -869,7 +869,7 @@
 		"manifestType": "desktop-browser",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -884,11 +884,11 @@
 		"name": "preload-tradingview-view",
 		"title": "Trading View",
 		"description": "This is an example of a thirdparty site that is listening for contextual fdc3 messages and using the passed ticker to update itself through the use of preload scripts.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/tradingview/preload-tradingview-view.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/tradingview/preload-tradingview-view.json",
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -910,11 +910,11 @@
 		"name": "preload-google-view",
 		"title": "Google View",
 		"description": "This is an example of a thirdparty site that is listening for contextual fdc3 messages and using the passed ticker to update itself through the use of preload scripts.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/google/preload-google-view.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/google/preload-google-view.json",
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -941,7 +941,7 @@
 		"intents": [],
 		"images": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/previews/expero-news-view.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/previews/expero-news-view.png"
 			}
 		],
 		"tags": ["expero", "view", "interop"]
@@ -963,7 +963,7 @@
 		"intents": [],
 		"images": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/previews/expero-description-view.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/previews/expero-description-view.png"
 			}
 		],
 		"tags": ["expero", "view", "interop"]
@@ -985,7 +985,7 @@
 		"intents": [],
 		"images": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/previews/expero-stock-view.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/previews/expero-stock-view.png"
 			}
 		],
 		"tags": ["expero", "view", "interop"]
@@ -1008,7 +1008,7 @@
 		"intents": [],
 		"images": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/previews/openfin-notification-studio.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/previews/openfin-notification-studio.png"
 			}
 		],
 		"tags": ["hero", "manifest", "tools"]
@@ -1031,7 +1031,7 @@
 		"intents": [],
 		"images": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/previews/openfin-process-manager.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/previews/openfin-process-manager.png"
 			}
 		],
 		"tags": ["hero", "manifest", "tools"]
@@ -1042,10 +1042,10 @@
 		"title": "OpenFin Developer Docs",
 		"manifestType": "snapshot",
 		"description": "Shows a collection of OpenFin developer pages and provides an example of how you can present a pre-built page as a launch target in OpenFin Home. This entry has a manifest type of 'snapshot'.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/snapshots/snapshot.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/snapshots/snapshot.json",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -1054,7 +1054,7 @@
 		"intents": [],
 		"images": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/previews/openfin-page-docs.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/previews/openfin-page-docs.png"
 			}
 		],
 		"tags": ["page", "developer"]
@@ -1065,10 +1065,10 @@
 		"title": "Hidden/Headless Window Example",
 		"manifestType": "window",
 		"description": "An example of launching a window that will not be captured as part of a saved workspace and will run headless in the background. This window generates a notification to show that it can be a window with a specific purpose (listening for notifications to create). The notification lets you show or close the hidden window. Only one instance can be running at a time. This window could be launched as part of your bootstrapping logic or in reaction to a particular event. It is listed in home as a way of launching the example.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/windows/hidden-window/hidden.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/windows/hidden-window/hidden.json",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -1084,10 +1084,10 @@
 		"title": "Manager Portal",
 		"manifestType": "snapshot",
 		"description": "Provides a portal for a manager",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/manager-portal/snapshot-manager-portal.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/manager-portal/snapshot-manager-portal.json",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -1103,7 +1103,7 @@
 		],
 		"images": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/previews/page-manager-portal.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/previews/page-manager-portal.png"
 			}
 		],
 		"tags": ["page", "openfin", "manager", "fcd3"]
@@ -1113,11 +1113,11 @@
 		"name": "my-team",
 		"title": "My Team",
 		"description": "View my team.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/manager-portal/my-team.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/manager-portal/my-team.json",
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -1139,11 +1139,11 @@
 		"name": "annual-leave",
 		"title": "Annual Leave",
 		"description": "View the annual leave for a team member.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/manager-portal/annual-leave.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/manager-portal/annual-leave.json",
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/manager-portal/annual-leave/favicon.ico"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/manager-portal/annual-leave/favicon.ico"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -1165,11 +1165,11 @@
 		"name": "manager-paths",
 		"title": "Manager Paths",
 		"description": "View the manager paths for a team member.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/manager-portal/manager-paths.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/manager-portal/manager-paths.json",
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/manager-portal/manager-paths/favicon.ico"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/manager-portal/manager-paths/favicon.ico"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -1191,11 +1191,11 @@
 		"name": "company-comms",
 		"title": "Company Comms",
 		"description": "View the communications for the company.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/manager-portal/company-comms.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/manager-portal/company-comms.json",
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/manager-portal/company-comms/favicon.ico"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/manager-portal/company-comms/favicon.ico"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -1217,11 +1217,11 @@
 		"name": "company-cal",
 		"title": "Company Calendar",
 		"description": "View the calendar for the company.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/manager-portal/company-cal.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/manager-portal/company-cal.json",
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/manager-portal/company-cal/favicon.ico"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/manager-portal/company-cal/favicon.ico"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -1245,7 +1245,7 @@
 		"description": "A collection of information and tools that help you get started with OpenFin Workspace.",
 		"manifest": "https://built-on-openfin.github.io/dev-extensions/extensions/v2.0.0/common/snapshots/snapshot-getting-started.json",
 		"manifestType": "snapshot",
-		"icons": [{ "src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png" }],
+		"icons": [{ "src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png" }],
 		"contactEmail": "contact@example.com",
 		"supportEmail": "support@example.com",
 		"publisher": "OpenFin",
@@ -1258,11 +1258,11 @@
 		"name": "irs-rfq",
 		"title": "IRS: Request For Quote",
 		"description": "Request for quote for Interest Rate Swaps.",
-		"manifest": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/windows/irs-rfq/irs-rfq.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/windows/irs-rfq/irs-rfq.json",
 		"manifestType": "window",
 		"icons": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -1271,10 +1271,10 @@
 		"intents": [],
 		"images": [
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/previews/irs-rfq.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/previews/irs-rfq.png"
 			},
 			{
-				"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/images/previews/irs-rfq-notification1.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/images/previews/irs-rfq-notification1.png"
 			}
 		],
 		"tags": ["view", "irs"]

@@ -12,9 +12,9 @@
 	"platform": {
 		"uuid": "second-workspace-starter-how-to-customize-workspace",
 		"name": "second-workspace-starter-how-to-customize-workspace",
-		"icon": "https://github.com/albert-herd-rocketfin/openfin-mga-server/favicon-32x32.png",
+		"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/favicon-32x32.png",
 		"autoShow": false,
-		"providerUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/platform/provider.html",
+		"providerUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/platform/provider.html",
 		"preventQuitOnLastWindowClosed": true,
 		"permissions": {
 			"System": {
@@ -46,7 +46,7 @@
 		{
 			"alias": "winform-interop-example",
 			"version": "3.0.1",
-			"src": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/assets/native-interop-example.zip",
+			"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/assets/native-interop-example.zip",
 			"target": "OpenFin.Interop.Win.Sample.exe",
 			"forceDownload": false
 		}
@@ -62,12 +62,12 @@
 			"modules": [
 				{
 					"id": "auth-example",
-					"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/auth/example.bundle.js",
+					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/js/modules/auth/example.bundle.js",
 					"data": {
 						"autoLogin": false,
-						"loginUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/windows/modules/auth/example-login.html",
-						"logoutUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/windows/modules/auth/example-logged-out.html",
-						"authenticatedUrl": "https://github.com/albert-herd-rocketfin/openfin-mga-server/windows/modules/auth/example-logged-in.html",
+						"loginUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/windows/modules/auth/example-login.html",
+						"logoutUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/windows/modules/auth/example-logged-out.html",
+						"authenticatedUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/windows/modules/auth/example-logged-in.html",
 						"checkLoginStatusInSeconds": 1,
 						"checkSessionValidityInSeconds": -1,
 						"customData": {
@@ -84,7 +84,7 @@
 			"modules": [
 				{
 					"id": "auth-example-endpoint",
-					"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/js/modules/auth/example.bundle.js",
+					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/js/modules/auth/example.bundle.js",
 					"data": {
 						"roleMapping": {
 							"developer": {
@@ -107,7 +107,7 @@
 					"typeId": "auth-example-endpoint",
 					"options": {
 						"method": "GET",
-						"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/settings.json"
+						"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/settings.json"
 					}
 				}
 			]

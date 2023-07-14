@@ -7,6 +7,6 @@
 	"fdc3InteropApi": "1.2",
 	"height": 500,
 	"width": 800,
-	"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/windows/hidden-window/hidden.html",
+	"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/windows/hidden-window/hidden.html",
 	"processAffinity": "custom-affinity"
 }

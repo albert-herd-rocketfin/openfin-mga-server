@@ -6,7 +6,7 @@
 	},
 	"preloadScripts": [
 		{
-			"url": "https://github.com/albert-herd-rocketfin/openfin-mga-server/common/views/tradingview/preload-tradingview.js"
+			"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/common/views/tradingview/preload-tradingview.js"
 		}
 	]
 }
